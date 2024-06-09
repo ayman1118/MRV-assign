@@ -1,3 +1,6 @@
+
+//CREATING ARRAY
+
 const contestants=[
     {
         candidateName:"Ayman",
